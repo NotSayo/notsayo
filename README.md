@@ -53,7 +53,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=notsayo&theme=dark&hide_border=true)](https://git.io/streak-stats) <br> <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notsayo&show_icons=true&theme=synthwave) <br> <br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=notsayo&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=notsayo&theme=tokyo-night">
 
 
 <!--
