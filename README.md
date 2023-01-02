@@ -14,7 +14,7 @@
 <br>
 
 <div>
-    <h2>🔍 Reach me on: </h2>
+    <h2>🔍 Reach me on </h2>
     <div>
         <a href ="https://discord.com/users/496374916501864448" target="_blanc">
             <img height="60px" src="https://brandslogos.com/wp-content/uploads/images/large/discord-logo.png" alt="discord"> 
@@ -61,7 +61,7 @@
 <br>
 
 <div>
-    <h2>📊 Github Statistics 📊 </h2>
+    <h2>📊 Github Statistics </h2>
     <details> <br>
         <summary> 📈 Profile Stats </summary>
             <img src="https://github-readme-stats.vercel.app/api?username=notsayo&show_icons=true&theme=synthwave" alt="Statistics"> <br> <br>
