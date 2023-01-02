@@ -54,7 +54,7 @@
 <div>
     <h2>📁 Databases and cloud services </h2>
     <img height="50px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mySQL">
-    <img height="50px" src="https://spng.pngfind.com/pngs/s/176-1766942_our-github-repos-are-here-github-icon-hd.png" alt="Github">
+    <img height="50px" src="https://e7.pngegg.com/pngimages/551/770/png-clipart-github-pages-logo-repository-fork-github-mammal-cat-like-mammal-thumbnail.png" alt="Github">
     <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/heroku.svg" alt="Heroku">
     
 </div>
