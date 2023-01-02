@@ -2,7 +2,7 @@
     <h1> Hi there 👋 </h1>
 </div>
 
-
+<br>
 
 <div>
     <h1> About me </h1>
@@ -11,12 +11,19 @@
     - 📫 How to reach me: Sayo#9954 on Discord <br>
 </div>
 
-### Programming and Markup languages
+<br>
+
+<div>
+    <h1> Programming and Markup languages </h1>
+    <img src="" alt="">
+</div>
 
 
 
-### Software
-
+<div>
+    <h2> Software </h2>
+    <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/df5bacba92a025537970ad7ad34a1c54e1aa6869/text%20editors/vscode.svg" alt="VSCode">
+</div>
 
 ### ⚡ My Streak ⚡
 
