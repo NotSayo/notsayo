@@ -6,9 +6,9 @@
 
 <div>
     <h1> About me </h1>
-    - 🔭 I’m currently working on a Website for a project.
-    - 🌱 I’m currently learning OOP and Databanks
-    - 📫 How to reach me: Sayo#9954 on Discord
+    - 🔭 I’m currently working on a Website for a project. <br>
+    - 🌱 I’m currently learning OOP and Databanks <br>
+    - 📫 How to reach me: Sayo#9954 on Discord <br>
 </div>
 
 ### Programming and Markup languages
