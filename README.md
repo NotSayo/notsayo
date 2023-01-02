@@ -35,6 +35,8 @@
     <img height="50px" src="" alt="">
 </div>
 
+<br>
+
 <div>
     <h2>Databases and cloud services </h2>
     <img height="50px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mySQL">
@@ -43,12 +45,15 @@
     
 </div>
 
+<br>
+
 <div>
     <h2> ⚡ Github Statistics ⚡ </h2>
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=notsayo&theme=dark&hide_border=true)](https://git.io/streak-stats) <br> <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notsayo&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notsayo&show_icons=true&theme=synthwave) <br> <br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=notsayo&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
