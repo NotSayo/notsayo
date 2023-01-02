@@ -8,7 +8,8 @@
     <h2>❓ About me </h2>
     <p> Hey, I'm Sayo, a developer from Austria. </p>
     <p> Currently studying software engineering. </p>
-    <p> I <em>sometimes</em> use my brain ;).
+    <p> I <em>sometimes</em> use my brain ;). </p>
+    <p> Happy new year! 🍾 </p>
 </div>
 
 <br>
