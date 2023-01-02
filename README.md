@@ -6,9 +6,9 @@
 
 <div>
     <h2>❓ About me </h2>
-    - 🔭 I’m currently working on a Website for a project. <br>
-    - 🌱 I’m currently learning more detailed OOP <br>
-    - 📫 How to reach me: Sayo#9954 on Discord <br>
+    <p> Hey, I'm Sayo, a developer from Austria. </p>
+    <p> Currently studying software engineering. </p>
+    <p> I <em>sometimes</em> use my brain ;).
 </div>
 
 <br>
