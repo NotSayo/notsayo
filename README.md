@@ -1,4 +1,9 @@
-### Hi there 👋
+<div align="center">
+    <h1> Hi there 👋 </h1>
+</div>
+
+
+### 
 
 - 🔭 I’m currently working on a Website for a project.
 - 🌱 I’m currently learning OOP and Databanks
