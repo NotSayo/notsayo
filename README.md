@@ -7,7 +7,7 @@
 <div>
     <h2>❓ About me </h2>
     - 🔭 I’m currently working on a Website for a project. <br>
-    - 🌱 I’m currently learning more detailed OOP and Databanks <br>
+    - 🌱 I’m currently learning more detailed OOP <br>
     - 📫 How to reach me: Sayo#9954 on Discord <br>
 </div>
 
