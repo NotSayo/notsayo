@@ -1,7 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a Website for a project.
+- 🌱 I’m currently learning OOP and Databanks
+- 📫 How to reach me: Sayo#9954 on Discord
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=notsayo)](https://git.io/streak-stats)
+
+### ⚡ My Streak ⚡
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=notsayo&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <!--
 **NotSayo/notsayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
