@@ -73,6 +73,10 @@
         <summary>🔧 Recent Activity </summary>
             <img src="https://github-readme-activity-graph.cyclic.app/graph?username=notsayo&theme=tokyo-night" alt="Contribution Graph"> <br> <br>
     </details>
+    <details> <br>
+        <summary>📋 Most Used Languages </summary>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsayo&theme=tokyonight" alt="Most used languages"> <br> <br>
+    </details>
 </div>
 
 
