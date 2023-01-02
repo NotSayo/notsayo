@@ -2,10 +2,19 @@
     <h1> Hi there 👋 </h1>
 </div>
 
+<div>
+    <h2> How to reach me </h2>
+    <div>
+        <a href ="https://discord.com/users/496374916501864448" target="_blanc">
+            <img height="70px" src="https://brandslogos.com/wp-content/uploads/images/large/discord-logo.png" alt="discord"> 
+        </a>  
+    </div>
+</div>
+
 <br>
 
 <div>
-    <h2> About me </h2>
+    <h2>❓ About me </h2>
     - 🔭 I’m currently working on a Website for a project. <br>
     - 🌱 I’m currently learning more datailed OOP and Databanks <br>
     - 📫 How to reach me: Sayo#9954 on Discord <br>
@@ -14,7 +23,7 @@
 <br>
 
 <div>
-    <h2> Programming and Markup languages </h2>
+    <h2> ⚙ Programming and Markup languages </h2>
     <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" alt="C#">
     <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" alt="JavaScript">
     <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="Python">
@@ -26,7 +35,7 @@
 <br>
 
 <div>
-    <h2> Software </h2>
+    <h2> 💻 Software </h2>
     <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" alt="VSCode">
     <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" alt="Sublime"> 
     <img height="50px" src ="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/atom.svg" alt="Atom">
@@ -38,7 +47,7 @@
 <br>
 
 <div>
-    <h2>Databases and cloud services </h2>
+    <h2>📁 Databases and cloud services </h2>
     <img height="50px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mySQL">
     <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" alt="Github">
     <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/heroku.svg" alt="Heroku">
@@ -48,22 +57,19 @@
 <br>
 
 <div>
-    <h2> ⚡ Github Statistics ⚡ </h2>
+    <h2>📊 Github Statistics 📊 </h2>
     <details> <br>
-        <summary> Profile Stats </summary>
+        <summary> 📈 Profile Stats </summary>
             <img src="https://github-readme-stats.vercel.app/api?username=notsayo&show_icons=true&theme=synthwave" alt="Statistics"> <br> <br>
     </details>
     <details> <br>
-        <summary> Streak </summary>
+        <summary> 🔥 Streak </summary>
             <img src="https://streak-stats.demolab.com?user=notsayo&theme=dark&hide_border=true" alt="Streak"> <br> <br>
     </details>
     <details> <br>
-        <summary> Contribution Graph </summary>
+        <summary>🔧 Recent Activity </summary>
             <img src="https://github-readme-activity-graph.cyclic.app/graph?username=notsayo&theme=tokyo-night" alt="Contribution Graph"> <br> <br>
     </details>
-    
-    
-   
 </div>
 
 
