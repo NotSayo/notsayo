@@ -46,7 +46,6 @@
     <img height="50px" src ="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/atom.svg" alt="Atom">
     <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/photoshop.png" alt="Photoshop">
     <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/after-effects.png" alt="After Effects">
-    <img height="50px" src="" alt="">
 </div>
 
 <br>
@@ -54,7 +53,7 @@
 <div>
     <h2>📁 Databases and cloud services </h2>
     <img height="50px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mySQL">
-    <img height="50px" src="https://e7.pngegg.com/pngimages/551/770/png-clipart-github-pages-logo-repository-fork-github-mammal-cat-like-mammal-thumbnail.png" alt="Github">
+    <img height="50px" src="https://www.pngkey.com/png/full/178-1787508_github-icon-download-at-icons8-white-github-icon.png" alt="Github">
     <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/heroku.svg" alt="Heroku">
     
 </div>
