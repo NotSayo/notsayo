@@ -22,7 +22,7 @@
 
 <div>
     <h2> Software </h2>
-    <img height="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/df5bacba92a025537970ad7ad34a1c54e1aa6869/text%20editors/vscode.svg" alt="VSCode">
+    <img margin-right="20px" height="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/df5bacba92a025537970ad7ad34a1c54e1aa6869/text%20editors/vscode.svg" alt="VSCode">
     <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" alt="Sublime"> 
 </div>
 
