@@ -5,7 +5,7 @@
 <br>
 
 <div>
-    <h1> About me </h1>
+    <h2> About me </h2>
     - 🔭 I’m currently working on a Website for a project. <br>
     - 🌱 I’m currently learning OOP and Databanks <br>
     - 📫 How to reach me: Sayo#9954 on Discord <br>
@@ -14,7 +14,7 @@
 <br>
 
 <div>
-    <h1> Programming and Markup languages </h1>
+    <h2> Programming and Markup languages </h2>
     <img src="" alt="">
 </div>
 
@@ -23,6 +23,7 @@
 <div>
     <h2> Software </h2>
     <img height="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/df5bacba92a025537970ad7ad34a1c54e1aa6869/text%20editors/vscode.svg" alt="VSCode">
+    <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" alt="Sublime"> 
 </div>
 
 ### ⚡ My Streak ⚡
