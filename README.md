@@ -3,11 +3,13 @@
 </div>
 
 
-### 
 
-- 🔭 I’m currently working on a Website for a project.
-- 🌱 I’m currently learning OOP and Databanks
-- 📫 How to reach me: Sayo#9954 on Discord
+<div>
+    <h1> About me </h1>
+    - 🔭 I’m currently working on a Website for a project.
+    - 🌱 I’m currently learning OOP and Databanks
+    - 📫 How to reach me: Sayo#9954 on Discord
+</div>
 
 ### Programming and Markup languages
 
