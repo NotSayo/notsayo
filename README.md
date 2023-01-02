@@ -10,7 +10,6 @@
 
 ### Software
 
-https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/df5bacba92a025537970ad7ad34a1c54e1aa6869/text%20editors/vscode.svg
 
 ### ⚡ My Streak ⚡
 
