@@ -3,11 +3,14 @@
 </div>
 
 <div>
-    <h2>🔍 How to reach me </h2>
+    <h2>🔍 Reach me on: </h2>
     <div>
         <a href ="https://discord.com/users/496374916501864448" target="_blanc">
             <img height="60px" src="https://brandslogos.com/wp-content/uploads/images/large/discord-logo.png" alt="discord"> 
         </a>  
+        <a href="https://twitter.com/Not_Sayo" target="_blanc">
+            <img height="60px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="Twitter">
+        </a>
     </div>
 </div>
 
