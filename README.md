@@ -49,11 +49,24 @@
 
 <div>
     <h2> ⚡ Github Statistics ⚡ </h2>
+    <details> <br>
+        <summary> Profile Stats </summary>
+            <img src="https://github-readme-stats.vercel.app/api?username=notsayo&show_icons=true&theme=synthwave" alt="Statistics"> <br> <br>
+    </details>
+    <details> <br>
+        <summary> Streak </summary>
+            <img src="https://streak-stats.demolab.com?user=notsayo&theme=dark&hide_border=true" alt="Streak"> <br> <br>
+    </details>
+    <details> <br>
+        <summary> Contribution Graph </summary>
+            <img src="https://github-readme-activity-graph.cyclic.app/graph?username=notsayo&theme=tokyo-night" alt="Contribution Graph"> <br> <br>
+    </details>
+    
+    
+   
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=notsayo&theme=dark&hide_border=true)](https://git.io/streak-stats) <br> <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notsayo&show_icons=true&theme=synthwave) <br> <br>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=notsayo&theme=tokyo-night">
+
 
 
 <!--
