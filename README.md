@@ -3,10 +3,10 @@
 </div>
 
 <div>
-    <h2> How to reach me </h2>
+    <h2>🔍 How to reach me </h2>
     <div>
         <a href ="https://discord.com/users/496374916501864448" target="_blanc">
-            <img height="70px" src="https://brandslogos.com/wp-content/uploads/images/large/discord-logo.png" alt="discord"> 
+            <img height="60px" src="https://brandslogos.com/wp-content/uploads/images/large/discord-logo.png" alt="discord"> 
         </a>  
     </div>
 </div>
@@ -49,7 +49,7 @@
 <div>
     <h2>📁 Databases and cloud services </h2>
     <img height="50px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mySQL">
-    <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" alt="Github">
+    <img height="50px" src="https://spng.pngfind.com/pngs/s/176-1766942_our-github-repos-are-here-github-icon-hd.png" alt="Github">
     <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/heroku.svg" alt="Heroku">
     
 </div>
