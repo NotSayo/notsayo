@@ -2,6 +2,17 @@
     <h1> Hi there 👋 </h1>
 </div>
 
+<br>
+
+<div>
+    <h2>❓ About me </h2>
+    - 🔭 I’m currently working on a Website for a project. <br>
+    - 🌱 I’m currently learning more datailed OOP and Databanks <br>
+    - 📫 How to reach me: Sayo#9954 on Discord <br>
+</div>
+
+<br>
+
 <div>
     <h2>🔍 Reach me on: </h2>
     <div>
@@ -12,15 +23,6 @@
             <img height="60px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="Twitter">
         </a>
     </div>
-</div>
-
-<br>
-
-<div>
-    <h2>❓ About me </h2>
-    - 🔭 I’m currently working on a Website for a project. <br>
-    - 🌱 I’m currently learning more datailed OOP and Databanks <br>
-    - 📫 How to reach me: Sayo#9954 on Discord <br>
 </div>
 
 <br>
