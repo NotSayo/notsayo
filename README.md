@@ -4,6 +4,13 @@
 
 <br>
 
+<div align="center">
+    <h1>🔥 My Streak 🔥</h1>
+    <img src="https://streak-stats.demolab.com?user=notsayo&theme=dark&hide_border=true" alt="Streak"> <br> <br>
+</div>
+
+<br>
+
 <div>
     <h2>❓ About me </h2>
     <p> Hey, I'm Sayo, a developer from Austria. </p>
@@ -66,10 +73,6 @@
     <details> <br>
         <summary> 📈 Profile Stats </summary>
             <img src="https://github-readme-stats.vercel.app/api?username=notsayo&show_icons=true&theme=synthwave" alt="Statistics"> <br> <br>
-    </details>
-    <details> <br>
-        <summary> 🔥 Streak </summary>
-            <img src="https://streak-stats.demolab.com?user=notsayo&theme=dark&hide_border=true" alt="Streak"> <br> <br>
     </details>
     <details> <br>
         <summary>🔧 Recent Activity </summary>
