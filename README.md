@@ -10,7 +10,7 @@
 
 <div align="center">
     <h1>🔥 My Streak 🔥</h1>
-    <img src="https://streak-stats.demolab.com?user=notsayo&theme=dark&hide_border=true" alt="Streak"> <br> <br>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=notsayo&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 <br>
