@@ -18,10 +18,10 @@
 <div>
     <h2>🔍 Reach me on </h2>
     <div>
-        <a href ="https://discord.com/users/496374916501864448" target="_blanc">
+        <a href ="https://discord.com/users/496374916501864448" target="_blank">
             <img height="60px" src="https://brandslogos.com/wp-content/uploads/images/large/discord-logo.png" alt="discord"> 
         </a>  
-        <a href="https://twitter.com/Not_Sayo" target="_blanc">
+        <a href="https://twitter.com/Not_Sayo" target="_blank">
             <img height="60px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="Twitter">
         </a>
     </div>
@@ -31,32 +31,32 @@
 
 <div>
     <h2> ⚙ Programming and Markup languages </h2>
-    <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" alt="C#">
-    <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" alt="JavaScript">
-    <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="Python">
-    <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" alt="PHP">
-    <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" alt="HTML">
-    <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" alt="css">
+    <img height="50px" target="_blank" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" alt="C#">
+    <img height="50px" target="_blank" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" alt="JavaScript">
+    <img height="50px" target="_blank" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="Python">
+    <img height="50px" target="_blank" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" alt="PHP">
+    <img height="50px" target="_blank" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" alt="HTML">
+    <img height="50px" target="_blank" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" alt="css">
 </div>
 
 <br>
 
 <div>
     <h2> 💻 Software </h2>
-    <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" alt="VSCode">
-    <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" alt="Sublime"> 
-    <img height="50px" src ="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/atom.svg" alt="Atom">
-    <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/photoshop.png" alt="Photoshop">
-    <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/after-effects.png" alt="After Effects">
+    <img height="50px" target="_blank" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" alt="VSCode">
+    <img height="50px" target="_blank" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" alt="Sublime"> 
+    <img height="50px" target="_blank" src ="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/atom.svg" alt="Atom">
+    <img height="50px" target="_blank" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/photoshop.png" alt="Photoshop">
+    <img height="50px" target="_blank" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/after-effects.png" alt="After Effects">
 </div>
 
 <br>
 
 <div>
     <h2>📁 Databases and cloud services </h2>
-    <img height="50px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mySQL">
-    <img height="50px" src="https://www.pngkey.com/png/full/178-1787508_github-icon-download-at-icons8-white-github-icon.png" alt="Github">
-    <img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/heroku.svg" alt="Heroku">
+    <img height="50px" target="_blank" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mySQL">
+    <img height="50px" target="_blank" src="https://www.pngkey.com/png/full/178-1787508_github-icon-download-at-icons8-white-github-icon.png" alt="Github">
+    <img height="50px" target="_blank" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/heroku.svg" alt="Heroku">
     
 </div>
 
