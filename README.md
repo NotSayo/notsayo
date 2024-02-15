@@ -42,6 +42,8 @@
 
 <div>
     <h2> 💻 Software </h2>
+     <img height="50px" target="_blank" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/rider.png" alt="VSCode">
+    <img height="50px" target="_blank" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/datagrip.svg" alt="VSCode">
     <img height="50px" target="_blank" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" alt="VSCode">
     <img height="50px" target="_blank" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" alt="Sublime"> 
     <img height="50px" target="_blank" src ="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/atom.svg" alt="Atom">
