@@ -67,11 +67,11 @@
     <h2>📊 Github Statistics </h2>
     <details> <br>
         <summary> 📈 Profile Stats </summary>
-            <img src="https://github-readme-stats.vercel.app/api?username=notsayo&show_icons=true&theme=synthwave" alt="Statistics"> <br> <br>
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=notsayo&theme=synthwave" alt="Statistics"> <br> <br>
     </details>
     <details> <br>
         <summary>🔧 Recent Activity </summary>
-            <img src="https://github-readme-activity-graph.cyclic.app/graph?username=notsayo&theme=tokyo-night" alt="Contribution Graph"> <br> <br>
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=notsayo&theme=tokyo-night" alt="Contribution Graph"> <br> <br>
     </details>
     <details> <br>
         <summary>📋 Most Used Languages </summary>
@@ -83,6 +83,10 @@
 
 
 <!--
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=notsayo&theme=synthwave)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 **NotSayo/notsayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
