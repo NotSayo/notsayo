@@ -67,7 +67,7 @@
     <h2>📊 Github Statistics </h2>
     <details> <br>
         <summary> 📈 Profile Stats </summary>
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=notsayo&theme=synthwave" alt="Statistics"> <br> <br>
+            <img src="https://github-readme-stats.vercel.app/api?username=notsayo&show_icons=true&theme=synthwave" alt="Statistics"> <br> <br>
     </details>
     <details> <br>
         <summary>🔧 Recent Activity </summary>
