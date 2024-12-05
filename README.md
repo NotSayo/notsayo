@@ -3,6 +3,9 @@
     <p> I'm Sayo, a developer from Austria. </p>
     <p> Currently studying software engineering. </p>
     <p> I <em>sometimes</em> use my brain ;). </p>
+    <br>
+    <p> 🎄 Christmas is around the corner again! ❄️</p>
+    <p><strong>⛄ Merry Christmas everyone! 🎁</strong></p>
 </div>
 
 <br>
