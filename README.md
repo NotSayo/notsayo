@@ -4,8 +4,7 @@
     <p> Currently studying software engineering. </p>
     <p> I <em>sometimes</em> use my brain ;). </p>
     <br>
-    <p> 🎄 Christmas is around the corner again! ❄️</p>
-    <p><strong>⛄ Merry Christmas everyone! 🎁</strong></p>
+    <p>I should probably get back to my projects instead of writing this shouldn't I?</p>
 </div>
 
 <br>
