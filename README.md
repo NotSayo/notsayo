@@ -3,6 +3,8 @@
     <p> I'm Sayo, a developer from Austria. </p>
     <p> Currently studying software engineering. </p>
     <p> I <em>sometimes</em> use my brain ;). </p>
+    <p>This page really needs an update, it's mode outdated than my js skills...</p>
+    <p>Maybe some day...</p>
     <br>
     <p>I should probably get back to my projects instead of writing this shouldn't I?</p>
 </div>
